@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-json-c",
+  "dependencies": {
+    "json-c/json-c": "0.12.1"
+  }
+}
